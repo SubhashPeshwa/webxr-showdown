@@ -1,0 +1,6 @@
+.DS_Store
+.data
+data/
+Notes.md
+
+flask-render/static/
